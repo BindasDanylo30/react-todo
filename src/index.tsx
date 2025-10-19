@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.scss";
+import "./assetc/scss/normalize.scss";
+import "./assetc/scss/style.scss";
 import { ToDoList } from "./pages/ToDoList";
 
 const root = ReactDOM.createRoot(
